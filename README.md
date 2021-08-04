@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ndersorn
+- 👀 I’m interested in coding and electronics!
+- 🌱 I’m currently learning to struturize my coding
+- 💞️ I’m looking to collaborate on something private for development reasons
+- 📫 How to reach me at ndersorn@outlook.dk
