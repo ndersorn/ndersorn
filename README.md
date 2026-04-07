@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ndersorn
-- 👀 I’m interested in coding and electronics!
+- 👀 I’m a software developer!
 - 🌱 I’m currently working with C# .NET, PHP and some JS
 - 💞️ I’m open to collaborating on something cool or usefull
