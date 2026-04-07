@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ndersorn
 - 👀 I’m interested in coding and electronics!
-- 🌱 I’m currently looking into Rust and some xfce/gtk3 customization
-- 💞️ I’m looking to collaborate on something usefull
+- 🌱 I’m currently working with C# .NET, PHP and some JS
+- 💞️ I’m open to collaborating on something cool or usefull
